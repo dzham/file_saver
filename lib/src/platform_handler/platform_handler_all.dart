@@ -1,5 +1,6 @@
 import 'dart:developer';
 import 'dart:io';
+import 'dart:typed_data';
 
 import 'package:file_saver/src/models/file.model.dart';
 import 'package:file_saver/src/platform_handler/platform_handler.dart';
